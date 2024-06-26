@@ -1,2 +1,3 @@
 https://swarm.ptsecurity.com/xxe-chrome-safari-chatgpt/
 https://swarm.ptsecurity.com/source-code-disclosure-in-asp-net-apps/
+https://swarm.ptsecurity.com/bypassing-browser-tracking-protection-for-cors-misconfiguration-abuse/
